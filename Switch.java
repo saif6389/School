@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Switch
+class Switch   
 {
      public static void main(String args[])
   {
